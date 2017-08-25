@@ -5,7 +5,7 @@ var days = 20
 function happyHolidaysTo() {
   return "Happy holidays!"
 }
-function happyHolidayTo(string) {
+function happyHolidaysTo(string) {
   return `happy Holidays, ${name}!`
 }
 function happyHolidayTo(string,string) {

@@ -2,7 +2,7 @@
 var name = "you"
 var holiday = "Independence Day"
 var days = 20
-function happyHolidaysTo() {
+function happyHolidays() {
   return "Happy holidays!"
 }
 function happyHolidaysTo(string) {
